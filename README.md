@@ -16,3 +16,5 @@ La bibliotheque de classe :
 On va ensuite ajouter la DLL a notre application console comme on peut le voir dans les références :
 
 ![Diagramme.png](https://github.com/SamGdy/TpGesperBibliothequeClasse/blob/master/Images/Reference.PNG)
+
+On peut maintenant utiliser la bibliotheque de classe sans recréer dans classe dans notre projet.
