@@ -11,7 +11,8 @@ Tout d'abord la création des classes qui sont liés à la base de données GESP
 La bibliotheque de classe :
 
 ![Diagramme.png](https://github.com/SamGdy/TpGesperBibliothequeClasse/blob/master/Images/DiagrammeDeClasse.png)
-
 ![Diagramme.png](https://github.com/SamGdy/TpGesperBibliothequeClasse/blob/master/Images/BiblioClasse.PNG)
+
+On va ensuite ajouter la DLL a notre application console comme on peut le voir dans les références :
 
 ![Diagramme.png](https://github.com/SamGdy/TpGesperBibliothequeClasse/blob/master/Images/Reference.PNG)
