@@ -4,20 +4,20 @@ Présentation du projet : l'objectif est de réaliser une bibliotheque de classe
 Les outils mis en oeuvre :
 * visual studio
 
-Tout d'abord la création des classes qui sont liés à la base de données GESPER :
+Tout d'abord la création des classes qui sont liées à la base de données GESPER :
 
 ![Diagramme.png](https://github.com/SamGdy/TpGesperBibliothequeClasse/blob/master/Images/BdGesper.png)
 
-La bibliotheque de classe :
+La bibliothèque de classe :
 
 ![Diagramme.png](https://github.com/SamGdy/TpGesperBibliothequeClasse/blob/master/Images/DiagrammeDeClasse.png)
 
-Dans l'explorateur de solution :
+Dans l'explorateur de solutions :
 
 ![Diagramme.png](https://github.com/SamGdy/TpGesperBibliothequeClasse/blob/master/Images/BiblioClasse.PNG)
 
-On va ensuite ajouter la DLL a notre application console comme on peut le voir dans les références :
+On va ensuite ajouter la DLL à notre application console comme on peut le voir dans les références :
 
 ![Diagramme.png](https://github.com/SamGdy/TpGesperBibliothequeClasse/blob/master/Images/Reference.PNG)
 
-On peut maintenant utiliser la bibliotheque de classe sans recréer de classe dans notre projet.
+On peut maintenant utiliser la bibliothèque de classe sans recréer de classe dans notre projet.
